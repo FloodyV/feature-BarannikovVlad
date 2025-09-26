@@ -1,0 +1,3 @@
+cd D:\profiles
+git checkout -b feature/BarannikovVlad
+git push origin feature/BarannikovVlad
